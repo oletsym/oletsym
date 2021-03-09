@@ -1,4 +1,32 @@
-### Hi there 👋
+# 👋 there
+
+## Technologies stack
+
+### dev
+
+- nextjs
+- react
+- typescript
+- go
+- graphql
+
+### devops
+
+- kubernetes (operators)
+- gitops (Flux, Argo, Brigade)
+- github actions
+
+### clouds
+
+- aws
+- azure
+- gcp
+
+### Books I can recomend
+
+### Youtube channels I can recomend
+
+## My Statistics
 
 <!--
 **oletsym/oletsym** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
